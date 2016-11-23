@@ -1,0 +1,29 @@
+{"FoodItems":
+	[
+		{"Name":"Idli","MajorIngredients":["Rice", "Dal"], "MinorIngredients":["Salt"],"Tags":["Salty"],"Number": 4,"IsNonVeg": false}, 
+		{"Name":"Dosa","MajorIngredients":["Rice", "Dal"], "MinorIngredients":["Salt", "Oil"],"Tags":["Salty"],"Number": 5,"IsNonVeg": false},
+		{"Name":"Rava Idli","MajorIngredients":["Semolina", "Dal"], "MinorIngredients":["Salt", "Carrot", "Onion"],"Tags":["Salty"],"Number": 5,"IsNonVeg": false},
+		{"Name":"Masala Dosa","MajorIngredients":["Rice", "Dal", "Potato", "Onion", "Chilli"], "MinorIngredients":["Salt", "Oil"],"Tags":["Oily", "Salty"],"Number": 5,"IsNonVeg": false},
+		{"Name":"Upma","MajorIngredients":["Semolina", "Dal"], "MinorIngredients":["Salt", "Oil"],"Tags":["Salty"],"Number": 4,"IsNonVeg": false},
+		{"Name":"Vada","MajorIngredients":["Rice", "Dal", "Oil"], "MinorIngredients":["Salt"],"Tags":["Salty","Oily"],"Number": 4,"IsNonVeg": false},
+		{"Name":"Paratha","MajorIngredients":["Flour"], "MinorIngredients":["Salt"],"Tags":[""],"Number": 7,"IsNonVeg": false},
+		{"Name":"Noodles","MajorIngredients":["Carrot", "Onion", "Capsicum", "Chilli", "Tomato"], "MinorIngredients":["Salt"],"Tags":["Spicy"],"Number": 4,"IsNonVeg": false},
+		{"Name":"Cereal","MajorIngredients":["Dal", "Milk", "Apple", "Strawberry", "Grapes"], "MinorIngredients":["Badam", "Dry Fruits"],"Tags":["Sweet", "Lactose"],"Number": 4,"IsNonVeg": false},
+		{"Name":"French Toast","MajorIngredients":["Bread", "Egg"], "MinorIngredients":["Salt", "Pepper", "Oregano", "Chilli", "Oil"],"Tags":["Spicy", "Oily"],"Number": 4,"IsNonVeg": true},
+		{"Name":"Scrambled Eggs","MajorIngredients":["Milk", "Eggs"], "MinorIngredients":["Salt", "Pepper", "Oregano", "Chilli", "Oil"],"Tags":["Salty"],"Number": 4,"IsNonVeg": true},
+		{"Name":"Veg Sandwich","MajorIngredients":["Bread", "Carrot", "Onion", "Capsicum", "Tomato", "Cheese"], "MinorIngredients":["Salt", "Pepper", "Oregano", "Chilli", "Butter"],"Tags":["Salty"],"Number": 4,"IsNonVeg": false},
+		{"Name":"Chicken Sandwich","MajorIngredients":["Bread", "Chicken", "Onion", "Capsicum", "Tomato", "Cheese"], "MinorIngredients":["Salt", "Pepper", "Oregano", "Chilli", "Butter"],"Tags":["Salty"],"Number": 4,"IsNonVeg": true},
+		{"Name":"Bread & Jam","MajorIngredients":["Bread", "Jam"], "MinorIngredients":["Butter"],"Tags":["Salty"],"Number": 4,"IsNonVeg": false},
+		{"Name":"Waffles","MajorIngredients":["Flour", "Eggs", "Vanilla", "Sugar", "Salt", "Baking Soda"], "MinorIngredients":["Cardamom"],"Tags":["Salty"],"Number": 4,"IsNonVeg": true},
+		{"Name":"Pancakes","MajorIngredients":["Flour", "Eggs", "Vanilla", "Sugar", "Salt", "Baking Soda", "Milk"], "MinorIngredients":["Cardamom"],"Tags":["Salty"],"Number": 4,"IsNonVeg": true},
+		{"Name":"Bisi Bele Bath","MajorIngredients":["Rice", "Dal", "Carrot", "Onion", "Capsicum", "Tomato", "Beans", "Chilli"], "MinorIngredients":["Salt"],"Tags":["Salty"],"Number": 3,"IsNonVeg": false},
+		{"Name":"Pulav","MajorIngredients":["Rice", "Carrot", "Onion", "Capsicum", "Tomato", "Beans", "Chilli"], "MinorIngredients":["Salt", "Cardamom", "Clove", "Bayleaf"],"Tags":["Salty"],"Number": 3,"IsNonVeg": false},
+		{"Name":"Chicken Biriyani","MajorIngredients":["Rice", "Chicken", "Onion", "Tomato", "Chilli"], "MinorIngredients":["Salt", "Cardamom", "Clove", "Bayleaf"],"Tags":["Salty"],"Number": 3,"IsNonVeg": true},
+		{"Name":"Roti Curry","MajorIngredients":["Flour", "Dal", "Carrot", "Onion", "Capsicum", "Tomato", "Beans", "Chilli"], "MinorIngredients":["Salt"],"Tags":["Salty"],"Number": 4,"IsNonVeg": false},
+		{"Name":"Chicken Steak","MajorIngredients":["Oil", "Chicken", "Eggs", "Onions", "Chilli"], "MinorIngredients":["Salt", "Ginger", "Garlic", "Pepper"],"Tags":["Salty"],"Number": 3,"IsNonVeg": true},
+		{"Name":"Meatloaf","MajorIngredients":["Beef", "Egg", "Onion", "Milk", "Bread", "Ketchup"], "MinorIngredients":["Salt",  "Pepper", "Mustard", "Brown Sugar"],"Tags":["Salty"],"Number": 2,"IsNonVeg": true},
+		{"Name":"Lasagne","MajorIngredients":["Chicken", "Beef", "Onion", "Garlic", "Tomato", "Sauce", "Cheese", "Basil"], "MinorIngredients":["Salt", "Pepper", "Sugar"],"Tags":["Salty"],"Number": 3,"IsNonVeg": true},
+		{"Name":"Hash Browns","MajorIngredients":["Potato", "Egg", "Onion", "Flour"], "MinorIngredients":["Salt", "Chilli", "Pepper"],"Tags":["Salty"],"Number": 3,"IsNonVeg": true},
+		{"Name":"Risotto","MajorIngredients":["Rice", "Chicken", "Wine", "Cheese"], "MinorIngredients":["Salt", "Pepper"],"Tags":["Salty"],"Number": 3,"IsNonVeg": true}
+	]
+}
